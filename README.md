@@ -1,12 +1,18 @@
 # Album Previewer
 
-You're working for the "Next Step Records" record label, and your job is to make a site that displays information about albums the label puts out and plays samples of the tracks. The overall site layout and styling is already done, you need to add the interactivity to it.
+You're working for the "Next Step Records" record label, and your job is to make a site that 
+displays information about albums the label puts out and plays samples of the tracks. 
+The overall site layout and styling is already done, you need to add the interactivity to it.
 
-The list of albums should display on the `index.html` page, and any individual album should display on the `album.html` page. There is no need to alter any of the HTML/CSS files or create any new files.
+The list of albums should display on the `index.html` page, and any individual album should display 
+on the `album.html` page. There is no need to alter any of the HTML/CSS files or create any new files.
 
-The `index.html` and `album.html` pages each have corresponding `index.js` and `album.js` files that have already been linked. Additionally, all the album data has already been loaded into a variable called `albums` for both JavaScript files.
+The `index.html` and `album.html` pages each have corresponding `index.js` and `album.js` files that 
+have already been linked. Additionally, all the album data has already been loaded into a variable called 
+`albums` for both JavaScript files.
 
-The music files are all in the `site/assets/tracks` directory, and the album covers are all in the `site/assets/cover-images` directory.
+The music files are all in the `site/assets/tracks` directory, and the album covers are 
+all in the `site/assets/cover-images` directory.
 
 The elements you dynamically create should look like this:
 
